@@ -184,7 +184,6 @@ Parallèlement à ma licence, je me forme de manière autonome à la cybersécur
 
 **Reconnaissance & énumération**  
 - Nmap, Masscan, Gobuster, dirb  
-- Connexions VPN sécurisées (initiation à OpenVPN)
 
 **Exploitation**  
 - Framework : Metasploit  
